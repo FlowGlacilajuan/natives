@@ -16,7 +16,7 @@ NativeDB Added Parameter 8: BOOL p7
 ```
 
 ## Parameters
-* **modelHash**: The model of vehicle to spawn.
+* **modelHash**:"f8spider" The model of vehicle to spawn.
 * **x**: Spawn coordinate X component.
 * **y**: Spawn coordinate Y component.
 * **z**: Spawn coordinate Z component.
